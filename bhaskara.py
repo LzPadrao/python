@@ -26,5 +26,5 @@ else:
         print()
         print("O valor da raiz ",raiz)
         print()
-        print("Linha 1 é ",float(lin1))
-        print("Linha 2 é ",float(lin2))
+        print("Raiz 1 é ",float(lin1))
+        print("Raiz 2 é ",float(lin2))
